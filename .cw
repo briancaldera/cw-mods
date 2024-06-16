@@ -1,10 +1,13 @@
 #Mods
 
-Ars Noveau 1.20.1 4.11.0-all
+Ars Noveau 
+Alex's Mobs
+Alex's Caves
 
 #Dependencies
 
-Curios 1.20.1 5.9.1 - Ars Noveau
-GeckoLib 1.20.1 4.4.6 - Ars Noveau
-Patchouli 1.20.1 84 - Ars Noveau
-TerraBlender 1.20.1 3.0.1.7 - Ars Noveau
+Curios 5.9.1 - Ars Noveau
+GeckoLib 4.4.6 - Ars Noveau
+Patchouli 84 - Ars Noveau
+TerraBlender  3.0.1.7 - Ars Noveau
+Citadel 2.5.4 - Alex's Mobs, Alex's Caves
