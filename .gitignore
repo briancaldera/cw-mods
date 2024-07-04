@@ -1,7 +1,4 @@
-BetterAdvancements-1.20.1-0.3.2.161.jar
-Bookshelf-Forge-1.20.1-20.1.6.jar
-EnchantmentDescriptions-Forge-1.20.1-17.0.9.jar
-OptiFine_1.20.1_HD_U_I5.jar
-moreoverlays-1.22.1-mc1.20.jar
-notenoughanimations-forge-1.6.4-mc1.20.jar
-soundphysics-forge-1.20.1-1.1.2.jar
+BetterAdvancements*.jar
+OptiFine*.jar
+notenoughanimations-forge*.jar
+soundphysics-forge*.jar
