@@ -2,8 +2,15 @@
 BetterAdvancements-Forge-1.20.1-0.4.2.10.jar
 #https://www.curseforge.com/minecraft/mc-mods/entityculling
 entityculling-forge-1.7.4-mc1.20.1.jar
+#https://www.curseforge.com/minecraft/mc-mods/item-borders
+ItemBorders-1.20.1-forge-1.2.2.jar
+#https://www.curseforge.com/minecraft/mc-mods/item-highlighter
+Highlighter-1.20.1-forge-1.1.9.jar
+#https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips
+LegendaryTooltips-1.20.1-forge-1.4.5.jar
 #https://www.curseforge.com/minecraft/mc-mods/not-enough-animations
 notenoughanimations-forge-1.9.3-mc1.20.1.jar
 #https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered
 sound-physics-remastered-forge-1.20.1-1.4.10.jar
+#Esta vaina es para los mods Fabric, en este caso solo Prion
 .connector/
